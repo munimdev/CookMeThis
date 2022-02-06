@@ -9,6 +9,7 @@ A meal planner application that uses a large recipe database. It allows users to
   <li>Whitelist</li>
   <li>Blacklist</li>
   <li>Fuzzy Searching</li>
+</ul>
 
 # UML Diagram
 ![uml](https://github.com/munimdev/CookMeThis/blob/main/img/Company%20Structure.svg)
