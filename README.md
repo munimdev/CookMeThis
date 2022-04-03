@@ -5,7 +5,6 @@ Done in Python, utilizing SQLite3 and some other libraries to parse an existing 
 
 Semester 3 project for "Database Systems", done alongside @FaizaanAlFaisal.
 
-Topics
 # Features
 
 <ul>
