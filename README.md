@@ -3,7 +3,7 @@
 A meal planner application that uses a large recipe database. It allows users to select a list of ingredients and gives options for potential meals that can be prepared.
 Done in Python, utilizing SQLite3 and some other libraries to parse an existing dataset for use in our application. 
 
-Semester 3 project for "Database Systems", done alongside @FaizaanAlFaisal.
+Semester 3 project for "Database Systems", done alongside [@FaizaanAlFaisal](https://github.com/FaizaanAlFaisal).
 
 # Features
 
